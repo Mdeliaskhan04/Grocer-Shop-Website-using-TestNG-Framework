@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite for Regression Testing">
+    <test name="Login test for Regression Testing">
+        <classes>
+            <class name="groceryShopUsingTestNg.homePage"> </class>
+            <class name="groceryShopUsingTestNg.fruits"> </class>
+        </classes>
+    </test>
+</suite>
